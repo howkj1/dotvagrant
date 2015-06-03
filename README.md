@@ -1,6 +1,21 @@
 # dotvagrant
 You put the lime in the coconut and shake it all up!
 
+## Included with Laravel Homestead:
+* Ubuntu 14.04
+* PHP 5.6
+* HHVM
+* Nginx
+* MySQL
+* Postgres
+* Node (With Bower, Grunt, and Gulp)
+* Redis
+* Memcached
+* Beanstalkd
+* Laravel Envoy
+* Blackfire Profiler
+http://laravel.com/docs/5.0/homestead 
+
 ## Included:
 * spf13: https://github.com/spf13/spf13-vim
 * Solarized for Gnome :  https://github.com/Anthony25/gnome-terminal-colors-solarized
@@ -8,11 +23,12 @@ You put the lime in the coconut and shake it all up!
 
 ### WebDev Specific  Tool:
 * http-server: https://github.com/indexzero/http-server 
-* Ruby: http://sass-lang.com/install
 * SASS: http://sass-lang.com/install
 * Compass: http://thesassway.com/beginner/getting-started-with-sass-and-compass
 * css_parser: http://thesassway.com/beginner/getting-started-with-sass-and-compass
-* http-server: https://github.com/indexzero/http-server 
+* SimpleHTTPServer: https://rubygems.org/gems/SimpleHTTPServer
+ * Ruby: https://github.com/joshfng/railsready
+
 
 
 ### Note:
@@ -29,3 +45,8 @@ You put the lime in the coconut and shake it all up!
 
 ### Run this: 
 git clone https://github.com/joshmccall221/dotvagrant.git && cd ./dotvagrant && vagrant up
+
+#### Resources:
+* https://atlas.hashicorp.com/
+* http://askubuntu.com/questions/53822/how-do-you-run-ubuntu-server-with-a-gui
+* http://www.devopsbookmarks.com/
